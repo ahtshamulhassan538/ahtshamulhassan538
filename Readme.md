@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahtsham Ul Hassan</h1>
-<h3 align="center">Senior Full-Stack Developer from Pakistan</h3>
+<h3 align="center">Full-Stack Developer from Pakistan</h3>
 <p align="center">With a deep passion for software engineering, I’m dedicated to exploring new technologies and leveraging modern tech stacks to build scalable, efficient, and impactful solutions. Always keen on innovating and solving complex challenges with a focus on creating high-quality software.</p>
 <div align="center">
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
