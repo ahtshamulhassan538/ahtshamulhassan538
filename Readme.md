@@ -28,7 +28,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,nestjs,graphql" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,nodejs,nestjs,graphql" />
   </a>
 </p>
 
