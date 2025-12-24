@@ -16,7 +16,7 @@
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
-</div> -->
+</div>
 
 <br>
 <h3 align="left">Connect with me:</h3>
@@ -36,7 +36,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,py,fastapi,express,nestjs,graphql" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,nestjs,graphql" />
   </a>
 </p>
 
